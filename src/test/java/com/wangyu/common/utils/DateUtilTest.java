@@ -5,10 +5,17 @@ import java.util.Calendar;
 import java.util.Date;
 
 import org.junit.Test;
-
+/**
+ * 
+    * @ClassName: DateUtilTest
+    * @Description: 测试时间类
+    * @author 王宇
+    * @date 2019年9月9日
+    *
+ */
 public class DateUtilTest {
 	
-	
+	//测试时间日期格式
 	@Test
 	public void testRandomDate() {
 		Calendar c = Calendar.getInstance();

@@ -1,7 +1,14 @@
 package com.wangyu.common.utils;
 
 import java.util.Date;
-
+/**
+ * 
+    * @ClassName: Person
+    * @Description: Person实体类
+    * @author 王宇
+    * @date 2019年9月9日
+    *
+ */
 public class Person {
 
 	private String name;

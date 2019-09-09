@@ -2,7 +2,14 @@ package com.wangyu.common.utils;
 
 import java.util.HashSet;
 import java.util.Random;
-
+/**
+ * 
+    * @ClassName: RandomUtil
+    * @Description: 随机数等工具类
+    * @author 王宇
+    * @date 2019年9月9日
+    *
+ */
 public class RandomUtil {
 	
 	//方法1：返回min-max之间的随机整数（包含min和max值），例如返回1-3之间的随机数，那么返回1或2或3都是正确的，返回4就不对。 (5分)

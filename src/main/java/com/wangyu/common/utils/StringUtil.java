@@ -2,7 +2,14 @@ package com.wangyu.common.utils;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Random;
-
+/**
+ * 
+    * @ClassName: StringUtil
+    * @Description: 正则
+    * @author 王宇
+    * @date 2019年9月9日
+    *
+ */
 public class StringUtil {
 	
 

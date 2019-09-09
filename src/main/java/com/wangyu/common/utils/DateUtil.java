@@ -2,7 +2,14 @@ package com.wangyu.common.utils;
 
 import java.util.Calendar;
 import java.util.Date;
-
+/**
+ * 
+    * @ClassName: DateUtil
+    * @Description: 日期工具类
+    * @author 王宇
+    * @date 2019年9月9日
+    *
+ */
 public class DateUtil {
 	
 	

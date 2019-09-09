@@ -3,7 +3,14 @@ package com.wangyu.common.utils;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
-
+/**
+ * 
+    * @ClassName: RandomUtilTest
+    * @Description: 测试随机类
+    * @author 王宇
+    * @date 2019年9月9日
+    *
+ */
 public class RandomUtilTest {
 
 	@Test

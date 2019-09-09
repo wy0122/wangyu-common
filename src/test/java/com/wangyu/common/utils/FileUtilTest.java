@@ -5,7 +5,14 @@ import static org.junit.Assert.*;
 import java.io.File;
 
 import org.junit.Test;
-
+/**
+ * 
+    * @ClassName: FileUtilTest
+    * @Description: 测试文本
+    * @author 王宇
+    * @date 2019年9月9日
+    *
+ */
 public class FileUtilTest {
 
 	@Test

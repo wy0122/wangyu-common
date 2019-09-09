@@ -6,7 +6,14 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
-
+/**
+ * 
+    * @ClassName: StreamUtil
+    * @Description: 文本工具类
+    * @author 王宇
+    * @date 2019年9月9日
+    *
+ */
 public class StreamUtil {
 
 	

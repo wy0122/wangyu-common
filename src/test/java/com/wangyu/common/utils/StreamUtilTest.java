@@ -7,7 +7,14 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 
 import org.junit.Test;
-
+/**
+ * 
+    * @ClassName: StreamUtilTest
+    * @Description: 测试文本文件
+    * @author 王宇
+    * @date 2019年9月9日
+    *
+ */
 public class StreamUtilTest {
 
 	@Test
